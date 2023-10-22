@@ -1,6 +1,8 @@
 # optimizationsV2
 optimizations for gmod servers
 
+Update trigger_multiple can cause doors to not work either turn it off in the file or delete it
+
 
 lua > autorun > Placeluafilehere
 
