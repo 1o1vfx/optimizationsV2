@@ -77,7 +77,7 @@ local goThroughDoor = {
       [ "beam" ]                          = true,
       [ "light_spot" ]                    = true,
       [ "func_tracktrain" ]               = true,
-      [ "trigger_multiple" ]               = true,
+      [ "trigger_multiple" ]               = true, -- turn off to make sure doors that use mutliple surfaces will work // MEANING IF YOUR DOOR IS 4 BUYABLE DOORS/SURFACES THIS WILL CAUSE THEM TO AUTOLOCK FOREVER -- SET TO FALSE
   }
   
   hook.Add("InitPostEntity", "Remove_Sprites", function()
