@@ -1,7 +1,7 @@
 -- Sponsored by Duplicator.gg https://discord.gg/cVhRCSUAfx
 
 local _RunConsoleCommand = RunConsoleCommand
-_RunConsoleCommand("gmod_mcore_test", "1")
+_RunConsoleCommand("gmod_mcore_test", "0") -- turned off due to issues
 _RunConsoleCommand("r_queued_ropes", "1")
 _RunConsoleCommand("r_threaded_client_shadow_manager", "1")
 _RunConsoleCommand("r_threaded_renderables", "1")
