@@ -8,6 +8,6 @@ it is line 80 to turn it off
 
 lua > autorun > Placeluafilehere
 
-Sponsored by duplicator.gg https://discord.gg/cVhRCSUAfx
+Sponsored by duplicator.gg [[https://discord.gg/cVhRCSUAfx](https://discord.gg/wsXQpys46R](https://discord.gg/wsXQpys46R)https://discord.gg/wsXQpys46R
 
-Hosted with Atomic https://billing.atomicnetworks.co/aff.php?aff=80
+Hosted with Duplicator
