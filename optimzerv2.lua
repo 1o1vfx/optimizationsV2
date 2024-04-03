@@ -1,4 +1,4 @@
--- Sponsored by Duplicator.gg https://discord.gg/cVhRCSUAfx
+-- Sponsored by Duplicator.gg https://discord.gg/MukynM8k
 
 local _RunConsoleCommand = RunConsoleCommand
 _RunConsoleCommand("gmod_mcore_test", "0") -- turned off due to issues
@@ -35,8 +35,7 @@ hook.Remove("CalcView", "rp_deathPOV")
 hook.Remove("RenderScreenspaceEffects", "RenderMotionBlur")
 -- Part 1
 
--- Sponsored by Duplicator.gg https://discord.gg/cVhRCSUAfx
-
+-- Sponsored by Duplicator.gg https://discord.gg/MukynM8k
 local goThroughDoor = {
     prop_physics=true,
     sammyservers_textscreen=true,
@@ -92,4 +91,4 @@ local goThroughDoor = {
   end)
 
 
-  -- Sponsored by Duplicator.gg https://discord.gg/cVhRCSUAfx
+  -- Sponsored by Duplicator.gg https://discord.gg/MukynM8k
